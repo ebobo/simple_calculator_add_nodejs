@@ -1,0 +1,11 @@
+{
+  "name": "simple_cal_plus_nodejs",
+  "version": "1.0.0",
+  "description": "plus micro service nodejs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
